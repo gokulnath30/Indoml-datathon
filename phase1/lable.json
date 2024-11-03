@@ -1,0 +1,59 @@
+{
+    "target_data":
+    [
+        {
+            "indoml_id": 0,
+            "details_Brand": "Enclume",
+            "L0_category": "Home & Kitchen",
+            "L1_category": "Kitchen & Dining",
+            "L2_category": "Storage & Organization",
+            "L3_category": "Racks & Holders",
+            "L4_category": "Pot Racks"
+        },
+        {
+            "indoml_id": 1,
+            "details_Brand": "Schutt",
+            "L0_category": "Sports & Outdoors",
+            "L1_category": "Sports",
+            "L2_category": "Team Sports",
+            "L3_category": "Football",
+            "L4_category": "Protective Gear"
+        },
+        {
+            "indoml_id": 2,
+            "details_Brand": "Easton",
+            "L0_category": "Sports & Outdoors",
+            "L1_category": "Sports",
+            "L2_category": "Team Sports",
+            "L3_category": "Baseball",
+            "L4_category": "Baseball Bats"
+        },
+        {
+            "indoml_id": 3,
+            "details_Brand": "Bilstein",
+            "L0_category": "Automotive",
+            "L1_category": "Replacement Parts",
+            "L2_category": "Shocks, Struts & Suspension",
+            "L3_category": "Shocks",
+            "L4_category": "na"
+        },
+        {
+            "indoml_id": 4,
+            "details_Brand": "Clear Path Paper",
+            "L0_category": "Arts, Crafts & Sewing",
+            "L1_category": "Crafting",
+            "L2_category": "Paper & Paper Crafts",
+            "L3_category": "Paper",
+            "L4_category": "Card Stock"
+        },
+        {
+            "indoml_id": 5,
+            "details_Brand": "AVERY",
+            "L0_category": "Office Products",
+            "L1_category": "Office & School Supplies",
+            "L2_category": "Labels, Indexes & Stamps",
+            "L3_category": "Labels & Stickers",
+            "L4_category": "Laser & Inkjet Printer Labels"
+        }
+    ]
+}

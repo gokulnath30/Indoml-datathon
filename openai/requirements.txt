@@ -1,0 +1,6 @@
+pandas==2.2.3
+tiktoken
+tqdm
+scikit-learn==1.5.2
+openai
+sentence-transformers==3.2.1

@@ -1,0 +1,7 @@
+pandas==1.4.1
+tqdm==4.64.0
+faiss-cpu==1.7.2
+sentence-transformers==2.2.2
+langchain-huggingface==0.0.200
+langchain-community==0.0.200
+vllm==0.1.5

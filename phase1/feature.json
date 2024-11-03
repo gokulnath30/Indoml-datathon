@@ -1,0 +1,40 @@
+{
+    "input_data": [
+        {
+            "indoml_id": 0,
+            "title": "Enclume Angled Pot Hook, Set of 6, Use with Pot Racks, Copper Plated",
+            "store": "Enclume",
+            "details_Manufacturer": "Enclume"
+        },
+        {
+            "indoml_id": 1,
+            "title": "Schutt Vengeance DCT Hybrid Youth Football H",
+            "store": "Schutt",
+            "details_Manufacturer": "Schutt"
+        },
+        {
+            "indoml_id": 2,
+            "title": "Easton 2014 MAKO SL14MK9 Baseball Bat (-9)",
+            "store": "Easton",
+            "details_Manufacturer": "Easton Sports, Inc."
+        },
+        {
+            "indoml_id": 3,
+            "title": "Bilstein B46-0929 Heavy-Duty Gas Shock Absorber",
+            "store": "Bilstein",
+            "details_Manufacturer": "Bilstein"
+        },
+        {
+            "indoml_id": 4,
+            "title": "Apple Red Cardstock - 8.5 x 11 inch - 65Lb Cover - 100 Sheets - Clear Path Paper",
+            "store": "Clear Path Paper",
+            "details_Manufacturer": "Clear Path Paper"
+        },
+        {
+            "indoml_id": 5,
+            "title": "Avery Glossy White Arched Labels with Sure Feed, 3 x 2.25, 90 Labels, Print-to-The-Edge, Laser/Inkjet Printable Labels",
+            "store": "AVERY",
+            "details_Manufacturer": "Avery"
+        }
+    ]
+}

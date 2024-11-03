@@ -1,0 +1,10 @@
+unsloth==2024.10.7
+pandas==2.2.3
+scikit-learn==1.5.2
+datasets==3.1.0
+huggingface_hub
+tqdm
+transformers==4.44.2
+vllm
+wandb
+sentence-transformers==3.2.1
